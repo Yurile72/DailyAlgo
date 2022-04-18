@@ -15,7 +15,7 @@ def solution(n, left, right):
     
     return answer[left:right+1]
 
-
+# ------------------------- test code -------------------------
 n = 4
 left = 7
 right = 14

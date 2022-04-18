@@ -2,7 +2,6 @@ using System;
 
 // https://programmers.co.kr/learn/courses/30/lessons/77884
 // 약수의 개수와 덧셈
-
 public class Solution {
     public int solution(int left, int right) {
       int add_num = left;
@@ -14,7 +13,6 @@ public class Solution {
           answer += add_num;
         else
           answer -= add_num;
-
         add_num++;
       }
 

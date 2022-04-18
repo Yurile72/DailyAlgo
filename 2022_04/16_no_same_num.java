@@ -16,7 +16,6 @@ public class Solution {
             else {
                 list.add(arr[i]);
             }
-            
         // System.out.println(list);    
         }
         
